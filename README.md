@@ -46,13 +46,17 @@ To identify the provider types with the highest payment efficiency.
 - BigQuery (SQL analysis)
 - Tableau Public (Visualization)
 - GitHub (Project documentation)
+- Data Cleaning
+- Data Visualization
+
 
 ## Files Included
-- medicare_dashboard.twbx
-- query1.csv
-- query2.csv
-- query3.csv
-- dashboard.png
+- Tableau_Medicare_Dashboard.twbx – Tableau workbook
+- 01_provider_type_total_payments.csv – Query result
+- 02_payment_per_service_by_provider_type.csv – Query result
+- 03_top5_provider_types_by_payment_per_service.csv – Query result
+- dashboard.png – Dashboard preview
+
 
 ## Tableau Public Dashboard
 https://public.tableau.com/views/MedicareProviderPaymentDashboard/MedicareProviderPaymentAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
