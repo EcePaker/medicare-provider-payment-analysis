@@ -1,7 +1,7 @@
 # Medicare Provider Analysis Dashboard
 
 ## Dashboard Preview
-![Dashboard](Medicare Provider Payment Analysis Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Project Overview
 This project analyzes Medicare physician provider data to understand differences in payments, charges, and service patterns across provider types.
